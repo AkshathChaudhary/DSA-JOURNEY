@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
