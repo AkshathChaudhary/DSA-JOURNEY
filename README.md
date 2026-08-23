@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0231-power-of-two) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0704-binary-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
