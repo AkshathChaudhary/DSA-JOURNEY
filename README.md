@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0066-plus-one) |
 | [0867-transpose-matrix](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0867-transpose-matrix) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
