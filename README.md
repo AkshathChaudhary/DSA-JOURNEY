@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0231-power-of-two) |
 ## Floyd's Cycle Finding Algorithm
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0231-power-of-two) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
