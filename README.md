@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
