@@ -16,5 +16,19 @@ public:
             }
         }
         return ans;
+
+
+        // Variation:- If the assummption that there always exists a majority number fails.
+        // int count=0;
+        // for(int val: nums){
+        //     if(val==ans){
+        //         count++;
+        //     }
+        //     if(count>(n/2)){   
+        //         return ans;
+        //     }else{
+        //         return -1;
+        //     }
+        // }
     }
 };
