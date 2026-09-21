@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0242-valid-anagram) |
 ## String
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0242-valid-anagram) |
 ## Array
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0867-transpose-matrix) |
@@ -81,10 +84,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0338-counting-bits) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
