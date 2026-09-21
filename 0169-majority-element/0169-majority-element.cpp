@@ -1,3 +1,5 @@
+//Moore's voting algorithm is used which sayas that the frequency of the majority element is so high that subtracting the frequency of the rest of the elements stioll results in the output of the majority number.
+
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
