@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0867-transpose-matrix) |
 ## Two Pointers
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0238-product-of-array-except-self) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
