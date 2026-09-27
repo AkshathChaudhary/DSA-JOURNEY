@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0242-valid-anagram) |
+| [1552-magnetic-force-between-two-balls](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/1552-magnetic-force-between-two-balls) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0867-transpose-matrix) |
+| [1552-magnetic-force-between-two-balls](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/1552-magnetic-force-between-two-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/1552-magnetic-force-between-two-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
