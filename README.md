@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0242-valid-anagram) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/1552-magnetic-force-between-two-balls) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0169-majority-element) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0202-happy-number) |
 ## Matrix
 |  |
