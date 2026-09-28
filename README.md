@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0053-maximum-subarray) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0202-happy-number) |
