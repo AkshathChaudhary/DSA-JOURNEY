@@ -1,30 +1,22 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
+        int l = 0;
+        int r = s.size() - 1;
 
-        int left = 0;
-        int right = s.length() - 1;
+        while (l < r) {
 
-        while (left < right) {
+            while (l < r && !isalnum(s[l]))
+                l++;
 
-            // Skip non-alphanumeric characters from the left
-            while (left < right && !isalnum(s[left])) {
-                left++;
-            }
+            while (l < r && !isalnum(s[r]))
+                r--;
 
-            // Skip non-alphanumeric characters from the right
-            while (left < right && !isalnum(s[right])) {
-                right--;
-            }
-
-            // Compare characters after converting to lowercase
-            if (tolower(s[left]) != tolower(s[right])) {
+            if (tolower(s[l]) != tolower(s[r]))
                 return false;
-            }
 
-            // Move both pointers inward
-            left++;
-            right--;
+            l++;
+            r--;
         }
 
         return true;
