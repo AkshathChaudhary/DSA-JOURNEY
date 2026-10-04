@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
