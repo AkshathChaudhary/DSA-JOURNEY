@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0867-transpose-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/1552-magnetic-force-between-two-balls) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2965-find-missing-and-repeated-values](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0867-transpose-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0231-power-of-two) |
+| [2965-find-missing-and-repeated-values](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/2965-find-missing-and-repeated-values) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
