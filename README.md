@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0704-binary-search) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0567-permutation-in-string) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0704-binary-search) |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
@@ -207,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0204-count-primes) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
