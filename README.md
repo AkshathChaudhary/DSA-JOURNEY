@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/2965-find-missing-and-repeated-values) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0509-fibonacci-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
