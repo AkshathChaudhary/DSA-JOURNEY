@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0242-valid-anagram) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0053-maximum-subarray) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0240-search-a-2d-matrix-ii) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0078-subsets) |
@@ -245,5 +249,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
