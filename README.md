@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0066-plus-one) |
@@ -238,6 +239,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
