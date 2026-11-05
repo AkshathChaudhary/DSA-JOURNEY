@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
