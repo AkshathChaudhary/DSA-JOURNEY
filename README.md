@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0867-transpose-matrix) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/1552-magnetic-force-between-two-balls) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2596-check-knight-tour-configuration](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/2596-check-knight-tour-configuration) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
 |  |
 | ------- |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0662-maximum-width-of-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0662-maximum-width-of-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -461,4 +466,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
