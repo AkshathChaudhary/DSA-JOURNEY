@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/1552-magnetic-force-between-two-balls) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0662-maximum-width-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/AkshathChaudhary/DSA-JOURNEY/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
 |  |
